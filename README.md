@@ -28,3 +28,6 @@ Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como 
 Visualiza mi proyecto terminado aquí.
 [CeciAmaro.github.io]()
 
+![image](https://user-images.githubusercontent.com/98362297/234747146-f26f886c-e38c-4fe1-8dd1-ef7fe9080545.png)
+
+
